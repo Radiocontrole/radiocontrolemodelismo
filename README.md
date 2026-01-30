@@ -1,2 +1,2 @@
 # radiocontrolemodelismo
-Site oficial Rádio Controle Modelismo
+Site oficial Radiocontrole
